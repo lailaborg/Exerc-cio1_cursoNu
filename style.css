@@ -1,0 +1,40 @@
+.content {
+  background-color: #111827;
+  color: #FFFFFF;
+  height: 100%;
+  margin: 30px 0;
+  border-radius: 5px;
+}
+
+section {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+img {
+  border-radius: 5px;
+}
+
+button {
+  padding: 15px 30px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer
+}
+
+.primary {
+  background-color: #18e990;
+}
+
+.secondary{
+  background-color: #cc0000;
+  color: #FFFFFF;
+}
+
+input {
+  border: none;
+  padding: 15px 2px;
+  margin-right: 10px;
+  border-radius: 5px;
+}
